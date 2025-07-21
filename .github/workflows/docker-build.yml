@@ -9,4 +9,4 @@ jobs:
   call-central-action:
     uses: devops-ktm/centralized-docker-action/.github/workflows/docker-build.yml@main
     with:
-      image_name: laravel-hello-app
+      image_name: php-laravel
